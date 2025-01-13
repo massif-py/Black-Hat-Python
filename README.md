@@ -4,5 +4,6 @@
 This repository contains the exercises from the book Black Hat Python, written by Justin Seitz and Tim Arnold.
 
 1. TCP Client.
-2. TCP Server.
-3. Netcat. 
+2. UDP Client.
+3. TCP Server.
+4. Netcat. 
